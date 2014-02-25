@@ -7,7 +7,8 @@
         "beforeEach": true,
         "afterEach": true,
         "expect": true,
-        "spyOn": true
+        "spyOn": true,
+        "define": true
     },
     "bitwise": false,
     "camelcase": false,
