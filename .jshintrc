@@ -28,7 +28,7 @@
     "quotmark": false,
     "undef": true,
     "unused": true,
-    "strict": true,
+    "strict": false,
     "trailing": true,
     "asi": false,
     "boss": false,
@@ -52,5 +52,6 @@
     "sub": false,
     "supernew": false,
     "validthis": false,
-    "browser": true
+    "browser": true,
+    "node": true
 }
